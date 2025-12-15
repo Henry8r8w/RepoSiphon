@@ -1,3 +1,7 @@
-**/*exp*/
+*exp*/
 
 .venv/
+
+*.pyc
+
+*.txt

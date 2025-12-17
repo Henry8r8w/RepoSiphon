@@ -11,7 +11,7 @@ GitHub does not provide a native way to download a single folder. Users are forc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Henry8r8w/RepoSiphon.git](https://github.com/Henry8r8w/RepoSiphon.git)
+    git clone https://github.com/Henry8r8w/RepoSiphon.git
     cd RepoSiphon
     ```
 

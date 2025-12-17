@@ -1,3 +1,13 @@
-**/*exp*/
+*exp*/
 
 .venv/
+
+*.pyc
+
+*.txt
+
+.pytest_cache/
+
+__pycache__
+
+*.json

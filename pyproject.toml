@@ -4,8 +4,9 @@ requires = ["setuptools>=64.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
+version = "0.1.0"
 readme = "README.md"
-name = "dr-dl" 
+name = "siphon" 
 
 dependencies = [
     "typer[standard]>=0.9.0", 
@@ -21,5 +22,5 @@ license = {text = "MIT License"}
 description = "A fast, non-cloning CLI tool to download specific sub-directories from GitHub repositories."
 
 [project.scripts]
-dr-dl = "getthefiles.main_cli:app" 
+siphon = "RepoSiphon.main_cli:app" 
 

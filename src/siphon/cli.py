@@ -1,4 +1,4 @@
-# src/github_folder_downloader/cli.py
+# src/siphon/cli.py
 import typer
 from typing_extensions import Annotated
 

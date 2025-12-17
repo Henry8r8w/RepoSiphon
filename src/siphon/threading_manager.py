@@ -1,4 +1,4 @@
-# src/getthefiles/threading_manager.py
+# src/siphon/threading_manager.py
 
 import concurrent.futures
 from typing import List, Tuple, Optional
